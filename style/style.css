@@ -166,3 +166,97 @@ main section{
     margin-top: 128px;
     margin-bottom: 128px;
 }
+.container-tittle{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+}
+.degree{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.institution{
+    font-size: 20px;
+    font-weight: semi-bold;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.degree-dt{
+    font-size: 16; color: #757575;
+    margin-bottom: 60px;
+   
+}
+.container-tittle{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+}
+.ex-des{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.ex-com{
+    font-size: 20px;
+    font-weight: semi-bold;
+    color: #757575;
+   
+}
+.ex-dt{
+    font-size: 16; color: #757575;
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+
+.rsm-tl{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.resume-container{
+    display: flex;
+    justify-content: center;
+    gap: 68px;
+    
+}
+
+.resune{
+    
+}
+
+.dlcv{
+    text-align: center;
+    margin-top: 50px;
+}
+.footerbg{
+    background-color: #FFF8F3;
+    padding: 130px 230px;
+    display: flex;
+    gap: 50%;
+}
+.connect{
+    font-size: 35px;
+    font-weight: bold;
+}
+.conn{
+    font-size: 18px;
+    color: #474747;
+}
+footer div{
+    gap: 50%;
+}
+
+footer input[type="text"], footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    width: 461px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+   
+}
